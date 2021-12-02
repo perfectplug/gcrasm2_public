@@ -1,0 +1,4 @@
+[submodule "deps"]
+	path = deps
+	url = https://github.com/x64dbg/deps
+	shallow = true
